@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Manipulador de Arquivo Texto/v16/Server/sqlite3
+/.vs/Manipulador de Arquivo Texto/v16
+/Manipulador de Arquivo Texto/bin/Debug
+/Manipulador de Arquivo Texto/obj/Debug
